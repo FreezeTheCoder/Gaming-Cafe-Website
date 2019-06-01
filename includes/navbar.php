@@ -1,6 +1,6 @@
 <div class="navbar navbar-expand-lg bg-transparent right d-flex flex-row justify-content-end align-items-end">
     <div class="collapse-md collapse" id="nav">
-        <ul class="navbar nav d-flex flex-row justify-content-end align-items-end sm-flex-column">
+        <ul class="navbar nav d-flex flex-row justify-content-end align-items-end sm-flex-column" id="nav">
             <li class="nav-item active">
                 <a class="nav-link main-white" href="index.php">Home</a>
             </li>
